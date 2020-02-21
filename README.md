@@ -7,7 +7,9 @@ Swift Login interface , draw in UIView and AFNetwork.
 
 简洁直观的登录界面可以消除信息干扰，提升用户体验，让用户切实地体会到愉悦感。本着简单的原则，我们在登录界面仅考虑了关键元素。
 当输入用户名时，如果缓存中已经存在此用户的信息（之前登录过），则会自动调取用户头像，并将头像处理作为登录背景，美化界面的同时给到用户真实的反馈。
-	
+
+![](https://github.com/XuZhengzhuo/HeartIO/blob/master/readme_image/log1.jpg)
+![](https://github.com/XuZhengzhuo/HeartIO/blob/master/readme_image/log2.jpg)
 <div align="center">
 <img src="https://github.com/XuZhengzhuo/HeartIO/blob/master/readme_image/log1.jpg" height="500px" alt="" >
 <img src="https://github.com/XuZhengzhuo/HeartIO/blob/master/readme_image/log2.jpg" height="500px" alt="" >
